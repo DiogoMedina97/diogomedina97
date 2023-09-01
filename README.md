@@ -2,12 +2,16 @@
 
 **Passionate software engineer dedicated to mastering JavaScript's dynamic capabilities, crafting efficient and elegant solutions for complex problems. Enthusiastically embracing new libraries, frameworks, and patterns to create seamless user experiences**
 
+## :bar_chart: Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMedina97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :gear: Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-ff5500?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-0055ff?logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-ff00ff?logo=sass&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffff00?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0055ff?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-00aaff?logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-00aaff?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-00aa00?logo=node.js&logoColor=white)
